@@ -361,4 +361,4 @@ if "comments_df" in st.session_state:
         )
 
 st.markdown("---")
-st.caption("Note: VADER works best for English. For multilingual videos, try a multilingual Transformers model (heavier).')
+st.caption("Note: VADER works best for English. For multilingual videos, try a multilingual Transformers model (heavier).")
